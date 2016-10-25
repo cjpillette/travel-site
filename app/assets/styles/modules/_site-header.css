@@ -41,7 +41,7 @@
       transform: translateX(0);
 
       .site-header--dark &  {    /*select the logo only when the dark header is being used*/
-        transform: scale(.57);
+        transform: scale(.56);
         }  
     }
   }
